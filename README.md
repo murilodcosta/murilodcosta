@@ -1,11 +1,7 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilodcosta&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" min-width="400px" max-width="400px" width="400px" align="right"/>
-
-Hello! I'm a **Software Developer** from Brazil, with +2 years of experience.
-
-* ⚙️ My main focus is on **Backend Development**, especially within the **Java (Spring)** ecosystems.
-* 💻 I also have experience with **Frontend** fundamentals (JavaScript, HTML, CSS) and various **Databases** (MySQL, SQL Server, SQLite).
-* 🌱 I'm constantly learning, building new skills, and exploring new technologies.
-
-<br>
-
-[LinkedIn](https://www.linkedin.com/in/murilo-dias-da-costa-857b91215/)
+Hello! I'm a **Software Engineer** from Brazil, with +2 years of experience.
+ 
+* ⚙️ My main focus is on **Backend Development**, especially within the **Java (Spring Framework)** ecosystem.
+* 🔗 I have hands-on experience building **ERP integrations** and **marketplace middleware** (Amazon, Mercado Livre, Shopee), eliminating manual processes and improving system performance.
+* 🗄️ I work with relational and non-relational databases: **PostgreSQL, MySQL, Oracle DB** and **MongoDB**.
+* 🛠️ Familiar with tools like **Docker, Maven, Git** and **Flyway** in day-to-day development.
+* 🌱 Currently deepening my knowledge in **Java ecosystem**, **Microservices**, **Cloud Computing** and **Generative AI**.
